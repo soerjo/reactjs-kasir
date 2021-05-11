@@ -6,6 +6,11 @@ sumber Chanell Youtube wahidev Academy: https://youtube.com/playlist?list=PLIan8
 ## Yang akan dilakukan:
 
 - installasi ReactJs
+  > install ReactJS
+  > install React Bootstrap
+  > Install sweetAlert
+  > Install Axios (buat Fetch data)
+  > Install React Router Dom
 - Install Json Placeholder
 - Setting Font dan Desain Layout
 - Menampilkan Menu Product
