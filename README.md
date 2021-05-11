@@ -11,7 +11,9 @@ sumber Chanell Youtube wahidev Academy: https://youtube.com/playlist?list=PLIan8
   > Install sweetAlert
   > Install Axios (buat Fetch data)
   > Install React Router Dom
-- Install Json Placeholder
+- Install Json Placeholder (buat BackEnd)
+  > Install Json Server
+  > (cara ubah port untuk json server bisa begini: json-server --watch db.json --port=8000)
 - Setting Font dan Desain Layout
 - Menampilkan Menu Product
 - Menampilkan product berdasarkan category
